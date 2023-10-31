@@ -83,7 +83,7 @@
     "html-webpack-plugin": "5.5.0",
     "json-loader": "^0.5.7",
     "json-server": "0.17.1",
-    "mini-css-extract-plugin": "2.7.2",
+    "mini-css-extract-plugin": "2.7.6",
     "node-polyfill-webpack-plugin": "2.0.1",
     "node-sass": "8.0.0",
     "postcss": "8.4.20",
