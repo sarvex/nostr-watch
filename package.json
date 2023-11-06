@@ -37,7 +37,7 @@
     "mount-vue-component": "0.10.2",
     "node-emoji": "1.11.0",
     "node-fetch": "3.3.2",
-    "nostr": "0.2.5",
+    "nostr": "0.2.8",
     "nostr-tools": "1.17.0",
     "nostrwatch-js": "0.0.48",
     "object-hash": "3.0.0",
