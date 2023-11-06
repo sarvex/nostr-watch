@@ -6887,18 +6887,18 @@ nostr-tools@1.7.4:
     "@scure/bip39" "^1.1.1"
     prettier "^2.8.4"
 
-nostr@0.2.5:
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/nostr/-/nostr-0.2.5.tgz#0315ec5ffd51225e667c79bfaca1a52907b529a3"
-  integrity sha512-0U4UURBhoN+/QtJPEiuJ/0mrfKp9NcO/cEaAAVsAa0Ge1cG89K7h0LT3ou6i+0SClZBrmp57TWga9tXDJcCzvQ==
-  dependencies:
-    noble-secp256k1 "^1.2.14"
-    ws "^8.8.1"
-
 nostr@0.2.7:
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/nostr/-/nostr-0.2.7.tgz#14bf238b00a37b1ef02c9b854d3462fbe918a213"
   integrity sha512-Yq5tkiCTJtohs7H7Fx+Ki83bR8b3xapdwYi17HunhW5EQfZ9rI0cIXFyihj2ZRkv/0YYvVBiCp/KIaLYt5LyfQ==
+  dependencies:
+    noble-secp256k1 "^1.2.14"
+    ws "^8.8.1"
+
+nostr@0.2.8:
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/nostr/-/nostr-0.2.8.tgz#f22dc2749dcee76babeea44442ed362380f9f44b"
+  integrity sha512-p25OQiEB5x8rWWoWLRRbxtxQiaQgypaQQakSKw5+cp/SW0DXea/soMzqmTXei1I6HrcARuyfvedGTdoEU471Ow==
   dependencies:
     noble-secp256k1 "^1.2.14"
     ws "^8.8.1"
