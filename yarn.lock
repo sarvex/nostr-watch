@@ -9667,10 +9667,10 @@ vue-loader@^17.0.0:
     hash-sum "^2.0.0"
     loader-utils "^2.0.0"
 
-vue-meta@3.0.0-alpha.8:
-  version "3.0.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/vue-meta/-/vue-meta-3.0.0-alpha.8.tgz#8b311b6b1726c1c66cd8ce83c3e234adeb22891b"
-  integrity sha512-jhlgRy/sGDpor8pkIhwWCGw5AMR7RtDM6xYqateAKBSy2/enelyrZFivOmo29PLs+zAS9Y57vYoZYB919Tnbug==
+vue-meta@3.0.0-alpha.10:
+  version "3.0.0-alpha.10"
+  resolved "https://registry.yarnpkg.com/vue-meta/-/vue-meta-3.0.0-alpha.10.tgz#8aa7dee8ef43edda2633d52d2d4ca0ae03352222"
+  integrity sha512-rYeIGkhm1gKBcReEkPHiV6LV2Y6BZTMGTkGw1mQIZTxfFcVJL0srLZsL1zAmLeTGxMrlDYylMQEVSYRkDnwz3A==
 
 vue-router@4.1.6, vue-router@^4.0.0-0:
   version "4.1.6"
