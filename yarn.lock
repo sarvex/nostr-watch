@@ -51,7 +51,7 @@
   resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.20.10.tgz#9d92fa81b87542fff50e848ed585b4212c1d34ec"
   integrity sha512-sEnuDPpOJR/fcafHMjpcpGN5M2jbUGUHwmuWKM/YdPzeEDJg8bgmbcWQFUfE32MQjti1koACvoPVsDe8Uq+idg==
 
-"@babel/core@^7.12.16":
+"@babel/core@7.20.12", "@babel/core@^7.12.16":
   version "7.20.12"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.20.12.tgz#7930db57443c6714ad216953d1356dac0eb8496d"
   integrity sha512-XsMfHovsUYHFMdrIHkZphTN/2Hzzi78R08NuHfDBehym2VsPDL6Zn/JAD/JQdnRvbSsbQc4mVaU1m6JgtTEElg==
@@ -72,7 +72,7 @@
     json5 "^2.2.2"
     semver "^6.3.0"
 
-"@babel/eslint-parser@^7.12.16":
+"@babel/eslint-parser@7.19.1":
   version "7.19.1"
   resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.19.1.tgz#4f68f6b0825489e00a24b41b6a1ae35414ecd2f4"
   integrity sha512-AqNf2QWt1rtu2/1rLswy6CDP7H9Oh3mMhk177Y67Rg8d7RD9WfOLLv8CGn6tisFvS2htm86yIe1yLF6I1UDaGQ==
@@ -1871,7 +1871,7 @@
   resolved "https://registry.yarnpkg.com/@vue/cli-overlay/-/cli-overlay-5.0.8.tgz#b61477acdc43bbd42fce6326d228471201ecdcdd"
   integrity sha512-KmtievE/B4kcXp6SuM2gzsnSd8WebkQpg3XaB6GmFh1BJGRqa1UiW9up7L/Q67uOdTigHxr5Ar2lZms4RcDjwQ==
 
-"@vue/cli-plugin-babel@~5.0.0":
+"@vue/cli-plugin-babel@5.0.8":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-babel/-/cli-plugin-babel-5.0.8.tgz#54f9a07900f29baff54803dcfa916c602894feb7"
   integrity sha512-a4qqkml3FAJ3auqB2kN2EMPocb/iu0ykeELwed+9B1c1nQ1HKgslKMHMPavYx3Cd/QAx2mBD4hwKBqZXEI/CsQ==
@@ -1883,7 +1883,7 @@
     thread-loader "^3.0.0"
     webpack "^5.54.0"
 
-"@vue/cli-plugin-eslint@~5.0.0":
+"@vue/cli-plugin-eslint@5.0.8":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-eslint/-/cli-plugin-eslint-5.0.8.tgz#754939265c2c5b746fa36c7d7705a89138e193bf"
   integrity sha512-d11+I5ONYaAPW1KyZj9GlrV/E6HZePq5L5eAF5GgoVdu6sxr6bDgEoxzhcS1Pk2eh8rn1MxG/FyyR+eCBj/CNg==
@@ -1906,7 +1906,7 @@
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-vuex/-/cli-plugin-vuex-5.0.8.tgz#0d4cb3020f9102bea9288d750729dde176c66ccd"
   integrity sha512-HSYWPqrunRE5ZZs8kVwiY6oWcn95qf/OQabwLfprhdpFWAGtLStShjsGED2aDpSSeGAskQETrtR/5h7VqgIlBA==
 
-"@vue/cli-service@~5.0.0":
+"@vue/cli-service@5.0.8":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@vue/cli-service/-/cli-service-5.0.8.tgz#cf3f6f1b7bf0fba9cdab86b6bec4f9897f982dac"
   integrity sha512-nV7tYQLe7YsTtzFrfOMIHc5N2hp5lHG2rpYr0aNja9rNljdgcPZLyQRb2YRivTHqTv7lI962UXFURcpStHgyFw==
@@ -5884,7 +5884,7 @@ jsesc@~0.5.0:
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz#e7dee66e35d6fc16f710fe91d5cf69f70f08911d"
   integrity sha512-uZz5UnB7u4T9LvwmFqXii7pZSouaRPorGs5who1Ip7VO0wxanFvBL7GkM6dTHlgX+jhBApRetaWpnDabOeTcnA==
 
-json-loader@^0.5.7:
+json-loader@0.5.7:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/json-loader/-/json-loader-0.5.7.tgz#dca14a70235ff82f0ac9a3abeb60d337a365185d"
   integrity sha512-QLPs8Dj7lnf3e3QYS1zkCo+4ZwqOiF9d/nZnYozTISxXWCfNs9yuky5rJw4/W34s7POaNlbZmQGaB5NiXCbP4w==
@@ -9615,7 +9615,7 @@ vue-class-component@^8.0.0-0:
   resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-8.0.0-rc.1.tgz#db692cd97656eb9a08206c03d0b7398cdb1d9420"
   integrity sha512-w1nMzsT/UdbDAXKqhwTmSoyuJzUXKrxLE77PCFVuC6syr8acdFDAq116xgvZh9UCuV0h+rlCtxXolr3Hi3HyPQ==
 
-vue-cli-plugin-yaml-loader@~1.0.0:
+vue-cli-plugin-yaml-loader@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/vue-cli-plugin-yaml-loader/-/vue-cli-plugin-yaml-loader-1.0.0.tgz#13d6cc8a9461b7e48475db6a8b6d20f6c2d748e1"
   integrity sha512-Mm/CwFrBtsVZVML4+AtggQqKMz8Qb3B5dgQhUvA4KmI/r2Fd7gyMYK2Iwe1glc/bIMmaNE9qKITm4OimTfoCTw==
@@ -10123,7 +10123,7 @@ yaml-convert@1.0.1:
     yaml "^1.10.2"
     yargs "^17.3.1"
 
-yaml-loader@^0.6.0:
+yaml-loader@0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/yaml-loader/-/yaml-loader-0.6.0.tgz#fe1c48b9f4803dace55a59a1474e790ba6ab1b48"
   integrity sha512-1bNiLelumURyj+zvVHOv8Y3dpCri0F2S+DCcmps0pA1zWRLjS+FhZQg4o3aUUDYESh73+pKZNI18bj7stpReow==
